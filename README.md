@@ -94,6 +94,9 @@ TODO:
 
 #### Priority: ☆
 
+- Better app namikng:
+  - アプリ・リポジトリ名である `myap` (MY Audio Player) は何となく付けただけなので、より良い名前があれば変えたい
+
 ### Log
 
 2022-10-04 思い付きで作り始めた
